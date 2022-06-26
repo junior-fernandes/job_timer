@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948655417289",
+    "project_id": "dw7-jobtimer",
+    "storage_bucket": "dw7-jobtimer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948655417289:android:8725187c67a42b2657ea18",
+        "android_client_info": {
+          "package_name": "br.com.jnrdesenvolvimento.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948655417289-ga1rko9q4qcop8u9jqq19ja2o6uv6to4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjeXxiWAAQR6ZWSJzfbB7unAeyTSI6V78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948655417289-ga1rko9q4qcop8u9jqq19ja2o6uv6to4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
